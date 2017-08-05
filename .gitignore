@@ -4,6 +4,11 @@
 /[Bb]uilds/
 /Assets/AssetStoreTools*
 
+*.log
+*.bin
+/Library/metadata/*
+/Library/PlayerDataCache/*
+/Library/ShaderCache/*
 
 # Unity3D generated meta files
 *.pidb.meta
